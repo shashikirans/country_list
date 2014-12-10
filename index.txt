@@ -4,11 +4,11 @@ A-Z List of Country and Other Area Pages
 A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z
 
 A
-Afghanistan -Kabul -Kavya
-Albania -Tirana -Kavya
-Algeria -Algiers -Kavya
-Andorra -Andorra la Vella -Kavya
-Angola -Luanda -Kavya
+Afghanistan -Kabul 
+Albania -Tirana 
+Algeria -Algiers 
+Andorra -Andorra la Vella 
+Angola -Luanda 
 Antigua and Barbuda
 Argentina
 Armenia
@@ -121,7 +121,7 @@ Japan
 Jordan
 Top of Page
 K
-Kazakhstan -Astana -Kavya
+Kazakhstan
 Kenya
 Kiribati
 Korea, North
