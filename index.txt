@@ -5,12 +5,12 @@ A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | 
 
 A
 Afghanistan - Kabul
-Albania
-Algeria
-Andorra
-Angola
+Albania - Tirana
+Algeria - Algiers
+Andorra - Andorra la vella
+Angola - Luanda
 Antigua and Barbuda
-Argentina
+Argentina - Buenos aries
 Armenia
 Aruba
 Australia - Melbourne
