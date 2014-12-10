@@ -4,7 +4,7 @@ A-Z List of Country and Other Area Pages
 A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z
 
 A
-Afghanistan
+Afghanistan - Kabul
 Albania
 Algeria
 Andorra
@@ -13,7 +13,7 @@ Antigua and Barbuda
 Argentina
 Armenia
 Aruba
-Australia
+Australia - Melbourne
 Austria
 Azerbaijan
 Top of Page
@@ -107,7 +107,7 @@ Hungary
 Top of Page
 I
 Iceland
-India
+India - New Delhi
 Indonesia
 Iran
 Iraq
@@ -182,7 +182,7 @@ Oman
  
 Top of Page
 P
-Pakistan
+Pakistan - Karachi
 Palau
 Palestinian Territories
 Panama
@@ -197,12 +197,13 @@ Top of Page
 Q
 Qatar
  
-Top of Page
+
 R
 Romania
-Russia
+Russia - Moscow
 Rwanda
-Top of Page
+
+
 S
 Saint Kitts and Nevis
 Saint Lucia
@@ -221,7 +222,7 @@ Slovakia
 Slovenia
 Solomon Islands
 Somalia
-South Africa
+South Africa - Pretoria, Cape Town, Bloemfontein
 South Korea
 South Sudan
 Spain 
@@ -263,11 +264,13 @@ Vanuatu
 Venezuela
 Vietnam
 Top of Page
+
 Y
-Yemen
+Yemen - Hodeidah
 Top of Page
+
 Z
 Zambia
 Zimbabwe
-Top of Page
+
 
