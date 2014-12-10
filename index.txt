@@ -5,26 +5,26 @@ A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | 
 
 A
 Afghanistan - Kabul
-Albania-Tirana
-Algeria-Algiers
-Andorra-Andorra la Vella
-Angola-Luanda
+Albania - Tirana
+Algeria - Algiers
+Andorra - Andorra la vella
+Angola - Luanda
 Antigua and Barbuda
-Argentina-Buenos Aires
+Argentina - Buenos aries
 Armenia
 Aruba
 Australia - Melbourne
 Austria
 Azerbaijan
 Top of Page
- 
+
 B
 Bahamas, The
-Bahrain
-Bangladesh
-Barbados
-Belarus
-Belgium
+Bahrain - Manama
+Bangladesh - Dhaka
+Barbados - Bridgetown
+Belarus - Minsk
+Belgium - Brussels
 Belize
 Benin
 Bhutan
@@ -32,7 +32,7 @@ Bolivia
 Bosnia and Herzegovina
 Botswana
 Brazil
-Brunei 
+Brunei
 Bulgaria
 Burkina Faso
 Burma
@@ -59,14 +59,14 @@ Curacao
 Cyprus
 Czech Republic
 Top of Page
- 
+
 D
 Denmark
 Djibouti
 Dominica
 Dominican Republic
 Top of Page
- 
+
 E
 East Timor (see Timor-Leste)
 Ecuador
@@ -77,13 +77,13 @@ Eritrea
 Estonia
 Ethiopia
 Top of Page
- 
+
 F
 Fiji
 Finland
 France
 Top of Page
- 
+
 G
 Gabon
 Gambia, The
@@ -97,7 +97,7 @@ Guinea
 Guinea-Bissau
 Guyana
 Top of Page
- 
+
 H
 Haiti
 Holy See
@@ -142,7 +142,7 @@ Lithuania
 Luxembourg
 Top of Page
 M
- 
+
 Macau
 Macedonia
 Madagascar
@@ -176,10 +176,10 @@ Nigeria
 North Korea
 Norway
 Top of Page
- 
+
 O
 Oman
- 
+
 Top of Page
 P
 Pakistan - Karachi
@@ -193,10 +193,10 @@ Philippines
 Poland
 Portugal
 Top of Page
- 
+
 Q
 Qatar
- 
+
 
 R
 Romania
@@ -208,7 +208,7 @@ S
 Saint Kitts and Nevis
 Saint Lucia
 Saint Vincent and the Grenadines
-Samoa 
+Samoa
 San Marino
 Sao Tome and Principe
 Saudi Arabia
@@ -225,21 +225,21 @@ Somalia
 South Africa - Pretoria, Cape Town, Bloemfontein
 South Korea
 South Sudan
-Spain 
+Spain
 Sri Lanka
 Sudan
 Suriname
-Swaziland 
+Swaziland
 Sweden
 Switzerland
 Syria
 Top of Page
 T
- 
+
 Taiwan
 Tajikistan
 Tanzania
-Thailand 
+Thailand
 Timor-Leste
 Togo
 Tonga
@@ -249,7 +249,7 @@ Turkey
 Turkmenistan
 Tuvalu
 Top of Page
- 
+
 U
 Uganda
 Ukraine
@@ -258,7 +258,7 @@ United Kingdom
 Uruguay
 Uzbekistan
 Top of Page
- 
+
 V
 Vanuatu
 Venezuela
